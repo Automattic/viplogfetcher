@@ -1,0 +1,63 @@
+# Python virtual environment
+env/
+.env/
+.viplogfetcher/
+pyvenv.cfg
+bin/
+include/
+lib/
+
+# Python byte-compiled files
+__pycache__/
+tests/__pycache__/
+viplogfetcher/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.ropeproject/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Environment variables
+.env
+.env.local
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+local_settings.py
+
+# Documentation builds
+docs/_build/
+site/
+
+# tox
+.tox/
+.python-version

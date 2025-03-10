@@ -1,0 +1,15 @@
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+moto>=4.0.0
+pytest-mock>=3.10.0
+
+# Development
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.990
+types-boto3>=1.0.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
