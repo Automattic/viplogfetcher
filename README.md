@@ -5,6 +5,8 @@ A tool for fetching and processing WordPress VIP log files from S3.
 ## Installation
 
 ```bash
+python3 -m venv .
+source bin/activate
 pip install -e .
 ```
 
