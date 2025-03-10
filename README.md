@@ -51,4 +51,4 @@ viplogfetcher my-bucket prod 2023-11-01T00:00:00Z 2023-11-02T00:00:00Z -o output
 
 ## License
 
-MIT
+GPLv3
